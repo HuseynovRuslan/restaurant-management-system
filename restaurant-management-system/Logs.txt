@@ -1,0 +1,580 @@
+2024-11-22 12:26:29: Keçmiş zakazlara baxıldı.
+2024-11-22 12:27:15: Yeni istifadəçi qeydiyyatdan keçdi: user
+2024-11-22 14:15:48: Yeni istifadəçi qeydiyyatdan keçdi: admina
+2024-11-22 14:57:02: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-22 15:21:48: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-22 15:52:45: Admin Action: Uğurlu giriş
+2024-11-22 15:54:40: Admin Action: Uğurlu giriş
+2024-11-22 15:58:35: Admin Action: Uğurlu giriş
+2024-11-22 16:16:59: Yeni istifadəçi qeydiyyatdan keçdi: use
+2024-11-22 16:17:18: Yeni istifadəçi qeydiyyatdan keçdi: s
+2024-11-22 16:21:09: Yeni istifadəçi qeydiyyatdan keçdi: 2
+2024-11-22 16:33:41: Yeni istifadəçi qeydiyyatdan keçdi: 12
+2024-11-22 16:52:24: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: a
+2024-11-22 16:52:37: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: 1
+2024-11-22 16:53:01: Yeni istifadəçi qeydiyyatdan keçdi: ruslan
+2024-11-22 16:53:10: İstifadəçi uğurla daxil oldu: ruslan
+2024-11-23 10:15:07: Yeni inqrediyent əlavə edildi: qargidali
+2024-11-23 10:15:17: Yeni inqrediyent əlavə edildi: pomidor
+2024-11-23 10:15:37: Yeni inqrediyent əlavə edildi: toyuq
+2024-11-23 10:17:55: Yeni inqrediyent əlavə edildi: asd
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: asd
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:50: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:51: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:52: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:35:53: Yeni yemək əlavə edildi: 
+2024-11-23 10:42:43: Büdcəyə əlavə edildi: $5000.000000
+2024-11-23 10:42:55: Büdcəyə əlavə edildi: $200.000000
+2024-11-23 10:43:06: Büdcədən çıxarıldı: $10000.000000
+2024-11-23 10:43:35: Yeni inqrediyent əlavə edildi: pomidor
+2024-11-23 10:44:04: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 10:44:19: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: 0
+2024-11-23 10:45:17: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 10:46:46: Yeni inqrediyent əlavə edildi: yumurta
+2024-11-23 10:53:30: Yeni yemək əlavə edildi: Plov
+2024-11-23 11:06:37: Yeni inqrediyent əlavə edildi: pomidor
+2024-11-23 11:12:54: Yeni yemək əlavə edildi: Plov
+2024-11-23 11:14:43: Yeni inqrediyent əlavə edildi: Pomidor
+2024-11-23 11:25:08: Büdcəyə əlavə edildi: ₼2000.000000
+2024-11-23 11:41:40: Yeni yemək əlavə edildi: Sezar Salat
+2024-11-23 11:47:35: Yeni inqrediyent əlavə edildi: omidor
+2024-11-23 11:47:47: Yeni inqrediyent əlavə edildi: Xiyar
+2024-11-23 11:48:07: Yeni inqrediyent əlavə edildi: ukruz
+2024-11-23 12:01:36: Eyni inqridiyent: Tomato, Yeni say: 102
+2024-11-23 12:03:07: Yeni inqrediyent əlavə edildi: Tomato
+2024-11-23 12:03:23: Eyni inqridiyent: Tomato, Yeni say: 101
+2024-11-23 12:03:57: Eyni inqridiyent: Tomato, Yeni say: 129
+2024-11-23 12:22:12: Yeni inqrediyent əlavə edildi: Tomato
+2024-11-23 12:22:28: Eyni inqrediyent: Tomato, Yeni say: 2
+2024-11-23 12:22:42: Eyni inqrediyent: Tomato, Yeni say: 2
+2024-11-23 12:22:47: Eyni inqrediyent: Tomato, Yeni say: 2
+2024-11-23 12:23:31: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:23:35: Eyni inqrediyent: tomato, Yeni say: 2
+2024-11-23 12:24:30: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:24:33: Eyni inqrediyent: tomato, Yeni say: 2
+2024-11-23 12:29:01: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:29:12: Eyni inqrediyent: tomato, Yeni say: 2
+2024-11-23 12:36:03: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:36:15: Eyni inqrediyent: tomato, Yeni say: 6
+2024-11-23 12:37:54: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:38:27: Yeni inqrediyent əlavə edildi: tomato
+2024-11-23 12:38:50: Yeni inqrediyent əlavə edildi: kukruz
+2024-11-23 12:38:59: Eyni inqrediyent: kukruz, Yeni say: 12
+2024-11-23 12:41:14: Yeni inqrediyent əlavə edildi: bugda
+2024-11-23 12:41:26: Eyni inqrediyent: bugda, Yeni say: 11
+2024-11-23 12:43:13: Yeni inqrediyent əlavə edildi: tut
+2024-11-23 12:43:19: Eyni inqrediyent: tut, Yeni say: 2
+2024-11-23 13:30:06: Yeni inqrediyent əlavə edildi: asd
+2024-11-23 13:30:25: Eyni inqrediyent: asd, Yeni say: 2
+2024-11-23 13:36:34: Yeni inqrediyent əlavə edildi: asd
+2024-11-23 13:36:39: Eyni inqrediyent: asd, Yeni say: 2
+2024-11-23 13:37:07: Eyni inqrediyent: asd, Yeni say: 21
+2024-11-23 13:39:47: Yeni inqrediyent əlavə edildi: alma
+2024-11-23 13:41:13: Yeni inqrediyent əlavə edildi: xiyar
+2024-11-23 13:42:35: Yeni yemək əlavə edildi: Pizza
+2024-11-23 13:50:05: Yeni yemək əlavə edildi: Plov
+2024-11-23 14:21:02: Büdcəyə əlavə edildi: ₼7.000000
+2024-11-23 14:34:55: Büdcəyə əlavə edildi: ₼5000.000000
+2024-11-23 14:39:24: Yeni inqrediyent əlavə edildi: alma
+2024-11-23 14:39:38: Yeni yemək əlavə edildi: asd
+2024-11-23 14:42:30: Yeni yemək əlavə edildi: Plov
+2024-11-23 14:48:28: Yeni yemək əlavə edildi: 
+2024-11-23 15:40:08: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:42:57: Yeni istifadəçi qeydiyyatdan keçdi: username
+2024-11-23 15:43:05: İstifadəçi uğurla daxil oldu: username
+2024-11-23 15:46:32: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:46:40: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:47:11: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:47:28: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asc
+2024-11-23 15:48:48: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:49:28: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:49:44: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: sd
+2024-11-23 15:50:58: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: as
+2024-11-23 15:51:23: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: as
+2024-11-23 15:51:39: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-23 15:51:47: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: fg
+2024-11-23 15:53:23: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 15:54:25: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: ad
+2024-11-23 15:55:16: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: ad
+2024-11-23 16:09:03: Yeni istifadəçi qeydiyyatdan keçdi: username
+2024-11-23 16:10:31: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:10:40: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:11:41: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-23 16:12:14: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:12:53: Yeni istifadəçi qeydiyyatdan keçdi: uslan_huseyn
+2024-11-23 16:13:05: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: ruslan_huseyn
+2024-11-23 16:13:26: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: ruslan
+2024-11-23 16:13:33: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: ruslan_huseyn
+2024-11-23 16:13:42: Yeni istifadəçi qeydiyyatdan keçdi: salam
+2024-11-23 16:13:46: İstifadəçi uğurla daxil oldu: salam
+2024-11-23 16:15:22: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 16:15:32: Sifariş təsdiqləndi. Ümumi məbləğ: ₼10.000000
+2024-11-23 16:15:52: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 16:16:02: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 16:16:06: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:16:09: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:16:25: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-23 16:16:47: Yeni istifadəçi qeydiyyatdan keçdi: lman
+2024-11-23 16:16:51: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:16:57: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: alman
+2024-11-23 16:17:05: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:17:11: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:17:23: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:18:59: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:19:03: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:19:14: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-23 16:19:43: Yeni istifadəçi qeydiyyatdan keçdi: dmin123
+2024-11-23 16:19:48: Yeni istifadəçi qeydiyyatdan keçdi: admin123
+2024-11-23 16:19:58: Yeni istifadəçi qeydiyyatdan keçdi: dmin2222
+2024-11-23 16:20:03: Yeni istifadəçi qeydiyyatdan keçdi: admin2222
+2024-11-23 16:21:44: Yeni istifadəçi qeydiyyatdan keçdi: admin12
+2024-11-23 16:21:52: Yeni istifadəçi qeydiyyatdan keçdi: dmin12
+2024-11-23 16:22:11: Yeni istifadəçi qeydiyyatdan keçdi: dmin123
+2024-11-23 16:22:26: Yeni istifadəçi qeydiyyatdan keçdi: dmin1234
+2024-11-23 16:22:31: Yeni istifadəçi qeydiyyatdan keçdi: admin1234
+2024-11-23 16:22:37: Yeni istifadəçi qeydiyyatdan keçdi: admin12345
+2024-11-23 16:22:57: Yeni istifadəçi qeydiyyatdan keçdi: almaz
+2024-11-23 16:23:16: Yeni istifadəçi qeydiyyatdan keçdi: oya
+2024-11-23 16:23:21: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: roya
+2024-11-23 16:23:29: Yeni istifadəçi qeydiyyatdan keçdi: royal
+2024-11-23 16:23:34: İstifadəçi uğurla daxil oldu: royal
+2024-11-23 16:25:32: Yeni istifadəçi qeydiyyatdan keçdi: admin123
+2024-11-23 16:25:36: İstifadəçi uğurla daxil oldu: admin123
+2024-11-23 16:26:17: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:26:20: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:28:58: Yeni istifadəçi qeydiyyatdan keçdi: user
+2024-11-23 16:29:03: Yanlış şifrə ilə giriş cəhdi: user
+2024-11-23 16:29:23: Yeni istifadəçi qeydiyyatdan keçdi: username
+2024-11-23 16:29:34: İstifadəçi uğurla daxil oldu: username
+2024-11-23 16:30:55: Yeni istifadəçi qeydiyyatdan keçdi: userpanel
+2024-11-23 16:31:01: İstifadəçi uğurla daxil oldu: userpanel
+2024-11-23 16:47:25: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:47:31: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:49:38: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 16:49:50: Sifariş təsdiqləndi. Ümumi məbləğ: ₼10.000000
+2024-11-23 16:51:05: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:51:09: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:51:26: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 16:51:41: Sifariş təsdiqləndi. Ümumi məbləğ: ₼10.000000
+2024-11-23 16:52:19: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:52:22: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:53:42: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:53:46: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:56:40: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:56:46: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 16:58:32: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 16:58:36: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:04:02: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-23 17:04:05: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:04:08: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:14:22: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:14:26: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:14:32: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 17:15:14: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 17:17:03: Sifariş təsdiqləndi. Ümumi məbləğ: ₼20.000000
+2024-11-23 17:17:34: Səbətə yemək əlavə edildi: Pizza
+2024-11-23 17:23:21: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:23:23: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:24:14: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:24:17: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:25:01: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:25:06: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:25:15: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-23 17:25:19: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 17:29:30: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-23 17:29:34: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-23 17:29:46: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-23 17:29:52: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-23 17:29:58: İstifadəçi uğurla daxil oldu: admin
+2024-11-23 23:24:20: Yeni yemək əlavə edildi: plov
+2024-11-23 23:25:25: Yeni yemək əlavə edildi: plov
+2024-11-24 12:19:42: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 12:19:47: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 12:20:10: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-24 12:20:23: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 12:20:58: Büdcədən çıxarıldı: ₼4000.000000
+2024-11-24 12:21:05: Büdcəyə əlavə edildi: ₼6000.000000
+2024-11-24 12:27:10: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 12:27:13: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 12:33:20: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 13:28:00: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:28:05: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:29:35: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:29:38: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:30:06: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:30:10: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:30:37: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:30:40: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:32:03: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:32:06: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:39:19: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:39:22: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:40:36: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 13:40:41: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:40:44: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:45:15: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:45:22: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:47:20: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:47:24: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:47:55: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:47:58: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:48:35: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:48:37: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 13:58:23: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 13:58:26: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 14:00:03: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 14:00:06: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 14:00:39: Yeni inqrediyent əlavə edildi: admin
+2024-11-24 14:00:48: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 14:00:51: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 14:14:48: Yeni yemək əlavə edildi: Plov
+2024-11-24 14:15:58: Büdcəyə əlavə edildi: ₼1000.000000
+2024-11-24 14:16:32: Yeni inqrediyent əlavə edildi: Duyu
+2024-11-24 14:17:02: Yeni inqrediyent əlavə edildi: toyuq
+2024-11-24 14:17:50: Yeni yemək əlavə edildi: Plov
+2024-11-24 14:19:18: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 14:19:32: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-24 14:19:39: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 14:19:44: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 14:19:49: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 14:19:53: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 14:46:29: Inqrediyent silindi: Bread
+2024-11-24 14:52:32: Inqrediyentin miqdarı dəyişdirildi: Tomato Köhnə Say: 100, Yeni Say: 200
+2024-11-24 14:52:46: Inqrediyentin miqdarı dəyişdirildi: Bread Köhnə Say: 200, Yeni Say: 500
+2024-11-24 15:07:13: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: asd
+2024-11-24 15:07:17: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 15:07:19: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 15:14:33: Yemək silindi: Pizza
+2024-11-24 15:23:36: Yemək yeniləndi: Plov
+2024-11-24 15:33:12: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:12: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:13: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:14: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:15: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:16: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:17: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:18: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:19: Yeni yemək əlavə edildi: 
+2024-11-24 15:33:50: Yeni yemək əlavə edildi: Plov
+2024-11-24 15:34:25: Yemək silindi: Pizza
+2024-11-24 15:35:18: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 15:35:20: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 15:35:23: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 15:35:46: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 15:35:51: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 15:35:56: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 15:36:00: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 15:38:03: Yeni istifadəçi qeydiyyatdan keçdi: adminə
+2024-11-24 15:38:06: İstifadəçi uğurla daxil oldu: adminə
+2024-11-24 15:40:38: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 15:40:41: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:02:01: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:02:04: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:03:32: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:03:37: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:06:11: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:06:15: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:07:04: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:07:09: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-24 18:07:16: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:08:00: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:08:04: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:12:04: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:12:08: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:12:56: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-24 18:13:08: Yeni istifadəçi qeydiyyatdan keçdi: olad
+2024-11-24 18:13:11: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: Polad
+2024-11-24 18:13:15: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:19:49: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:19:52: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:38:10: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:38:15: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:43:12: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-24 18:43:17: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 18:43:21: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 18:43:25: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:43:28: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 18:46:32: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 18:46:37: İstifadəçi uğurla daxil oldu: admin
+2024-11-24 19:15:04: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 19:15:18: Yeni istifadəçi qeydiyyatdan keçdi: dmin
+2024-11-24 19:15:22: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 19:15:26: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-24 19:15:29: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-24 19:15:32: İstifadəçi uğurla daxil oldu: admin

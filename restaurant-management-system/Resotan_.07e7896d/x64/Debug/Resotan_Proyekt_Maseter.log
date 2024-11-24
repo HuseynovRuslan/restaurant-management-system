@@ -1,0 +1,3 @@
+﻿  Source.cpp
+C:\Users\HP\source\repos\Resotan_Proyekt_Maseter\UserPanel.h(340,53): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Resotan_Proyekt_Maseter.vcxproj -> C:\Users\HP\source\repos\Resotan_Proyekt_Maseter\x64\Debug\Resotan_Proyekt_Maseter.exe
