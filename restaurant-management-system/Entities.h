@@ -56,6 +56,7 @@ namespace Entities {
             SetName(name);
             SetAddress(address);
             SetBudget(budget);
+
         }
 
         string GetName() const { return name; }
@@ -138,6 +139,9 @@ namespace Entities {
 
         string GetDescription() const { return description; } 
         void SetDescription(const string& desc) { description = desc; } 
+        void AddIngredient(const Stock& ingredient) {
+            ingredients.push_back(ingredient);  
+        }
     };
 
 
@@ -171,7 +175,7 @@ namespace Entities {
         }
     };
 
-    // Şablon sinif: DataSet<T>
+  
     template<typename T>
     class DataSet {
         vector<T> items;
@@ -181,9 +185,9 @@ namespace Entities {
             items.erase(remove(items.begin(), items.end(), item), items.end());
         }
 
-        // Referans qaytaran GetItems funksiyası
-        vector<T>& GetItems() { return items; } // Referans qaytarır
-        const vector<T>& GetItems() const { return items; } // Sabit referans qaytarır
+        
+        vector<T>& GetItems() { return items; } 
+        const vector<T>& GetItems() const { return items; } 
 
         size_t GetCount() const { return items.size(); }
     };

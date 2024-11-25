@@ -6,15 +6,15 @@
 using namespace std;
 
 namespace Statistics {
-
+    //Tam deyil
     class Statistic {
     private:
-        double dailyIncome;    // Gündəlik gəlir
-        double monthlyIncome;  // Aylıq gəlir
-        double dailyExpense;   // Gündəlik xərc
-        double monthlyExpense; // Aylıq xərc
-        int dailyOrderCount;   // Gündəlik sifariş sayı
-        int monthlyOrderCount; // Aylıq sifariş sayı
+        double dailyIncome;   
+        double monthlyIncome;  
+        double dailyExpense;   
+        double monthlyExpense; 
+        int dailyOrderCount;   
+        int monthlyOrderCount; 
 
     public:
         Statistic()

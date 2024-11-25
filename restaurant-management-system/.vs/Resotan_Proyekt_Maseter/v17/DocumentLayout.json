@@ -1,42 +1,58 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Menu.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Menu.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\User.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +62,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,120 +70,160 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UserPanel.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\UserPanel.h",
-              "RelativeDocumentMoniker": "UserPanel.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\UserPanel.h",
-              "RelativeToolTip": "UserPanel.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAPYAAAAQAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:05:47.143Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Display.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Display.h",
-              "RelativeDocumentMoniker": "Display.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Display.h",
-              "RelativeToolTip": "Display.h",
-              "ViewState": "AQIAAAIBAAAAAAAAAAAAAAABAAAUAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:05:58.896Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Statistic.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Statistic.h",
-              "RelativeDocumentMoniker": "Statistic.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Statistic.h",
-              "RelativeToolTip": "Statistic.h",
-              "ViewState": "AQIAADQAAAAAAAAAAAAAAEgAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:06:28.387Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "Logs.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Logs.txt",
-              "RelativeDocumentMoniker": "Logs.txt",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Logs.txt",
-              "RelativeToolTip": "Logs.txt",
-              "ViewState": "AQIAAAsCAAAAAAAAAAAiwBYCAAAeAAAA",
+              "Title": "Budget.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Budget.txt",
+              "RelativeDocumentMoniker": "Budget.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Budget.txt",
+              "RelativeToolTip": "Budget.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-23T08:24:46.909Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Exceptions.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Exceptions.h",
-              "RelativeDocumentMoniker": "Exceptions.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Exceptions.h",
-              "RelativeToolTip": "Exceptions.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:06:19.142Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Helpers.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Helpers.h",
-              "RelativeDocumentMoniker": "Helpers.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Helpers.h",
-              "RelativeToolTip": "Helpers.h",
-              "ViewState": "AQIAAGMAAAAAAAAAAAAAABMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:06:08.149Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "AdminPanel.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\AdminPanel.h",
-              "RelativeDocumentMoniker": "AdminPanel.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\AdminPanel.h",
-              "RelativeToolTip": "AdminPanel.h",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:05:28.75Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Entities.h",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Entities.h",
-              "RelativeDocumentMoniker": "Entities.h",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Entities.h",
-              "RelativeToolTip": "Entities.h",
-              "ViewState": "AQIAAH8AAAAAAAAAAAAAAIsAAABIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:05:15.597Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-25T12:38:16.482Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "Stock.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Stock.txt",
+              "RelativeDocumentMoniker": "Stock.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Stock.txt",
+              "RelativeToolTip": "Stock.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-25T11:48:24.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Menu.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Menu.txt",
+              "RelativeDocumentMoniker": "Menu.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Menu.txt",
+              "RelativeToolTip": "Menu.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-25T11:14:15.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserPanel.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\UserPanel.h",
+              "RelativeDocumentMoniker": "UserPanel.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\UserPanel.h",
+              "RelativeToolTip": "UserPanel.h",
+              "ViewState": "AQIAAKABAAAAAAAAAAAAALABAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:05:47.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Display.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Display.h",
+              "RelativeDocumentMoniker": "Display.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Display.h",
+              "RelativeToolTip": "Display.h",
+              "ViewState": "AQIAAEwBAAAAAAAAAAAAAFkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:05:58.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Statistic.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Statistic.h",
+              "RelativeDocumentMoniker": "Statistic.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Statistic.h",
+              "RelativeToolTip": "Statistic.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:06:28.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdminPanel.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\AdminPanel.h",
+              "RelativeDocumentMoniker": "AdminPanel.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\AdminPanel.h",
+              "RelativeToolTip": "AdminPanel.h",
+              "ViewState": "AQIAAOkBAAAAAAAAAAAAAEAAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:05:28.75Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Helpers.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Helpers.h",
+              "RelativeDocumentMoniker": "Helpers.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Helpers.h",
+              "RelativeToolTip": "Helpers.h",
+              "ViewState": "AQIAAOAAAAAAAAAAAAAYwPIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:06:08.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Entities.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Entities.h",
+              "RelativeDocumentMoniker": "Entities.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Entities.h",
+              "RelativeToolTip": "Entities.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAALEAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:05:15.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Exceptions.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Exceptions.h",
+              "RelativeDocumentMoniker": "Exceptions.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Exceptions.h",
+              "RelativeToolTip": "Exceptions.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-22T07:06:19.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\HP\\source\\repos\\Resotan_Proyekt_Maseter\\Source.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABgAAAABAAAA",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAADUAAAAsAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T07:04:56.044Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\User.txt",
+              "RelativeDocumentMoniker": "User.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\User.txt",
+              "RelativeToolTip": "User.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-25T11:34:27.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logs.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Logs.txt",
+              "RelativeDocumentMoniker": "Logs.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\Resotan_Proyekt_Maseter\\Logs.txt",
+              "RelativeToolTip": "Logs.txt",
+              "ViewState": "AQIAAAsCAAAAAAAAAAAiwBYCAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-23T08:24:46.909Z"
             }
           ]
         }

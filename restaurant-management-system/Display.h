@@ -83,7 +83,7 @@ namespace Display {
                 cout << "5. Inqrediyent Sil" << endl;
                 cout << "6. Inqrediyentin Sayını Dəyişdir" << endl;
                 cout << "7. Skladı Göstər" << endl;
-                cout << "8. Statistikaları Göstər" << endl;
+                cout << "8. Statistikaları Göstər(beta)" << endl;
                 cout << "9. Büdcəni Göstər" << endl;
                 cout << "10.Büdcəyə Məbləğ Əlavə Et" << endl;
                 cout << "11.Büdcədən Məbləğ Çıxar" << endl;

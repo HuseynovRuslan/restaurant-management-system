@@ -578,3 +578,321 @@
 2024-11-24 19:15:26: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
 2024-11-24 19:15:29: Yeni istifadəçi qeydiyyatdan keçdi: admin
 2024-11-24 19:15:32: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 11:47:39: Yeni yemək əlavə edildi: Burger
+2024-11-25 15:03:30: Yeni yemək əlavə edildi: plov
+2024-11-25 15:14:01: Menu məlumatları fayla yazıldı.
+2024-11-25 15:14:01: Yeni yemək əlavə edildi: plov
+2024-11-25 15:24:47: Menu məlumatları fayldan oxundu.
+2024-11-25 15:24:47: Default sklad məlumatları əlavə edildi.
+2024-11-25 15:24:48: Menu məlumatları fayldan oxundu.
+2024-11-25 15:25:00: Menu məlumatları fayla yazıldı.
+2024-11-25 15:25:00: Yemək silindi: plov
+2024-11-25 15:25:05: Menu məlumatları fayldan oxundu.
+2024-11-25 15:25:05: Default sklad məlumatları əlavə edildi.
+2024-11-25 15:25:13: Menu məlumatları fayldan oxundu.
+2024-11-25 15:25:30: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-25 15:25:34: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-25 15:25:38: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 15:25:48: Menu məlumatları fayldan oxundu.
+2024-11-25 15:25:48: Default sklad məlumatları əlavə edildi.
+2024-11-25 15:25:53: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admin
+2024-11-25 15:26:24: Menu məlumatları fayldan oxundu.
+2024-11-25 15:26:24: Default sklad məlumatları əlavə edildi.
+2024-11-25 15:26:26: Menu məlumatları fayldan oxundu.
+2024-11-25 15:26:44: Sklad məlumatları saxlanıldı.
+2024-11-25 15:26:44: Yeni inqrediyent əlavə edildi: alma
+2024-11-25 15:27:06: Menu məlumatları fayla yazıldı.
+2024-11-25 15:27:06: Sklad məlumatları saxlanıldı.
+2024-11-25 15:27:08: Menu məlumatları fayldan oxundu.
+2024-11-25 15:27:08: Sklad məlumatları oxundu.
+2024-11-25 15:27:11: Menu məlumatları fayldan oxundu.
+2024-11-25 15:27:11: Sklad məlumatları oxundu.
+2024-11-25 15:28:19: Menu məlumatları fayldan oxundu.
+2024-11-25 15:28:19: Sklad məlumatları oxundu.
+2024-11-25 15:34:14: Menu məlumatları fayldan oxundu.
+2024-11-25 15:34:14: Sklad məlumatları oxundu.
+2024-11-25 15:34:20: İstifadəçi məlumatları fayla yazıldı.
+2024-11-25 15:34:20: Yeni istifadəçi qeydiyyatdan keçdi: admin
+2024-11-25 15:34:32: Menu məlumatları fayldan oxundu.
+2024-11-25 15:34:32: Sklad məlumatları oxundu.
+2024-11-25 15:34:33: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 15:34:36: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 15:34:36: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 15:34:52: Menu məlumatları fayla yazıldı.
+2024-11-25 15:34:52: Sklad məlumatları saxlanıldı.
+2024-11-25 15:35:08: Menu məlumatları fayldan oxundu.
+2024-11-25 15:35:08: Sklad məlumatları oxundu.
+2024-11-25 15:35:09: Menu məlumatları fayldan oxundu.
+2024-11-25 15:35:09: Sklad məlumatları oxundu.
+2024-11-25 15:43:54: Menu məlumatları fayldan oxundu.
+2024-11-25 15:43:54: Sklad məlumatları oxundu.
+2024-11-25 15:43:55: Menu məlumatları fayldan oxundu.
+2024-11-25 15:43:55: Sklad məlumatları oxundu.
+2024-11-25 15:44:06: Büdcəyə əlavə edildi: ₼1000.000000
+2024-11-25 15:44:06: Büdcə fayla yazıldı: ₼1000.000000
+2024-11-25 15:44:14: Menu məlumatları fayla yazıldı.
+2024-11-25 15:44:14: Sklad məlumatları saxlanıldı.
+2024-11-25 15:44:16: Menu məlumatları fayldan oxundu.
+2024-11-25 15:44:16: Sklad məlumatları oxundu.
+2024-11-25 15:44:16: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:44:18: Menu məlumatları fayldan oxundu.
+2024-11-25 15:44:18: Sklad məlumatları oxundu.
+2024-11-25 15:44:28: Menu məlumatları fayla yazıldı.
+2024-11-25 15:44:28: Sklad məlumatları saxlanıldı.
+2024-11-25 15:45:21: Menu məlumatları fayldan oxundu.
+2024-11-25 15:45:21: Sklad məlumatları oxundu.
+2024-11-25 15:45:21: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:45:22: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 15:45:25: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 15:45:25: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 15:45:35: Menu məlumatları fayldan oxundu.
+2024-11-25 15:45:35: Sklad məlumatları oxundu.
+2024-11-25 15:47:32: Menu məlumatları fayldan oxundu.
+2024-11-25 15:47:32: Sklad məlumatları oxundu.
+2024-11-25 15:47:32: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:47:38: Menu məlumatları fayldan oxundu.
+2024-11-25 15:47:38: Sklad məlumatları oxundu.
+2024-11-25 15:48:28: Menu məlumatları fayldan oxundu.
+2024-11-25 15:48:28: Sklad məlumatları oxundu.
+2024-11-25 15:48:28: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:48:30: Menu məlumatları fayldan oxundu.
+2024-11-25 15:48:30: Sklad məlumatları oxundu.
+2024-11-25 15:49:56: Sklad məlumatları saxlanıldı.
+2024-11-25 15:49:56: Yeni inqrediyent əlavə edildi: Un
+2024-11-25 15:50:16: Menu məlumatları fayldan oxundu.
+2024-11-25 15:50:16: Sklad məlumatları oxundu.
+2024-11-25 15:50:16: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:50:17: Menu məlumatları fayldan oxundu.
+2024-11-25 15:50:17: Sklad məlumatları oxundu.
+2024-11-25 15:50:42: Sklad məlumatları saxlanıldı.
+2024-11-25 15:50:42: Yeni inqrediyent əlavə edildi: Un
+2024-11-25 15:50:50: Menu məlumatları fayldan oxundu.
+2024-11-25 15:50:50: Sklad məlumatları oxundu.
+2024-11-25 15:50:50: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:50:52: Menu məlumatları fayldan oxundu.
+2024-11-25 15:50:52: Sklad məlumatları oxundu.
+2024-11-25 15:58:20: Menu məlumatları fayldan oxundu.
+2024-11-25 15:58:20: Sklad məlumatları oxundu.
+2024-11-25 15:58:20: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 15:58:21: Menu məlumatları fayldan oxundu.
+2024-11-25 15:58:21: Sklad məlumatları oxundu.
+2024-11-25 15:58:30: Menu məlumatları fayla yazıldı.
+2024-11-25 15:58:30: Yeni yemək əlavə edildi: 1
+2024-11-25 15:58:42: Menu məlumatları fayla yazıldı.
+2024-11-25 15:58:42: Yemək silindi: 1
+2024-11-25 15:59:16: Sklad məlumatları saxlanıldı.
+2024-11-25 15:59:16: Yeni inqrediyent əlavə edildi: Un
+2024-11-25 15:59:27: Inqrediyent silindi: alma
+2024-11-25 15:59:27: Sklad məlumatları saxlanıldı.
+2024-11-25 15:59:38: Menu məlumatları fayla yazıldı.
+2024-11-25 15:59:38: Sklad məlumatları saxlanıldı.
+2024-11-25 16:00:57: Menu məlumatları fayldan oxundu.
+2024-11-25 16:00:57: Sklad məlumatları oxundu.
+2024-11-25 16:00:57: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 16:00:58: Menu məlumatları fayldan oxundu.
+2024-11-25 16:00:58: Sklad məlumatları oxundu.
+2024-11-25 16:01:26: Menu məlumatları fayldan oxundu.
+2024-11-25 16:01:26: Sklad məlumatları oxundu.
+2024-11-25 16:01:26: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 16:01:28: Menu məlumatları fayldan oxundu.
+2024-11-25 16:01:28: Sklad məlumatları oxundu.
+2024-11-25 16:02:27: Menu məlumatları fayldan oxundu.
+2024-11-25 16:02:27: Sklad məlumatları oxundu.
+2024-11-25 16:02:27: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 16:02:28: Menu məlumatları fayldan oxundu.
+2024-11-25 16:02:28: Sklad məlumatları oxundu.
+2024-11-25 16:02:56: Menu məlumatları fayldan oxundu.
+2024-11-25 16:02:56: Sklad məlumatları oxundu.
+2024-11-25 16:02:56: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 16:03:02: Menu məlumatları fayldan oxundu.
+2024-11-25 16:03:02: Sklad məlumatları oxundu.
+2024-11-25 16:03:02: Büdcə fayldan oxundu: ₼1000.000000
+2024-11-25 16:03:03: Menu məlumatları fayldan oxundu.
+2024-11-25 16:03:03: Sklad məlumatları oxundu.
+2024-11-25 16:03:34: Sklad məlumatları saxlanıldı.
+2024-11-25 16:03:34: Yeni inqrediyent əlavə edildi: Toyuq
+2024-11-25 16:06:30: Menu məlumatları fayla yazıldı.
+2024-11-25 16:06:30: Yeni yemək əlavə edildi: Neapolitan Pepperoni Pizza
+2024-11-25 16:08:05: Menu məlumatları fayla yazıldı.
+2024-11-25 16:08:05: Yemək yeniləndi:  Neapolitan Pepperoni Pizza
+2024-11-25 16:08:44: Büdcəyə əlavə edildi: ₼50.000000
+2024-11-25 16:08:44: Büdcə fayla yazıldı: ₼800.000000
+2024-11-25 16:09:15: Sklad məlumatları saxlanıldı.
+2024-11-25 16:09:15: Yeni inqrediyent əlavə edildi: qarğıdalı
+2024-11-25 16:09:31: Menu məlumatları fayla yazıldı.
+2024-11-25 16:09:31: Sklad məlumatları saxlanıldı.
+2024-11-25 16:09:40: Menu məlumatları fayldan oxundu.
+2024-11-25 16:09:40: Sklad məlumatları oxundu.
+2024-11-25 16:09:40: Büdcə fayldan oxundu: ₼800.000000
+2024-11-25 16:09:41: Menu məlumatları fayldan oxundu.
+2024-11-25 16:09:41: Sklad məlumatları oxundu.
+2024-11-25 16:09:59: Menu məlumatları fayldan oxundu.
+2024-11-25 16:09:59: Sklad məlumatları oxundu.
+2024-11-25 16:09:59: Büdcə fayldan oxundu: ₼800.000000
+2024-11-25 16:10:00: Menu məlumatları fayldan oxundu.
+2024-11-25 16:10:00: Sklad məlumatları oxundu.
+2024-11-25 16:10:14: Menu məlumatları fayldan oxundu.
+2024-11-25 16:10:14: Sklad məlumatları oxundu.
+2024-11-25 16:10:14: Büdcə fayldan oxundu: ₼800.000000
+2024-11-25 16:10:14: Default sklad məlumatları əlavə edildi.
+2024-11-25 16:10:15: Menu məlumatları fayldan oxundu.
+2024-11-25 16:10:15: Sklad məlumatları oxundu.
+2024-11-25 16:10:32: Sklad məlumatları saxlanıldı.
+2024-11-25 16:10:32: Yeni inqrediyent əlavə edildi: Un
+2024-11-25 16:11:17: Menu məlumatları fayldan oxundu.
+2024-11-25 16:11:17: Sklad məlumatları oxundu.
+2024-11-25 16:11:17: Büdcə fayldan oxundu: ₼800.000000
+2024-11-25 16:11:17: Default sklad məlumatları əlavə edildi.
+2024-11-25 16:11:19: Menu məlumatları fayldan oxundu.
+2024-11-25 16:11:19: Sklad məlumatları oxundu.
+2024-11-25 16:26:55: Menu məlumatları fayldan oxundu.
+2024-11-25 16:26:55: Sklad məlumatları oxundu.
+2024-11-25 16:26:55: Büdcə fayldan oxundu: ₼800.000000
+2024-11-25 16:26:55: Default sklad məlumatları əlavə edildi.
+2024-11-25 16:37:14: Menu məlumatları fayldan oxundu.
+2024-11-25 16:37:14: Sklad məlumatları oxundu.
+2024-11-25 16:37:40: Büdcədən çıxarıldı: ₼1000.000000
+2024-11-25 16:37:40: Büdcə fayla yazıldı: ₼4000.000000
+2024-11-25 16:37:47: Menu məlumatları fayldan oxundu.
+2024-11-25 16:37:47: Sklad məlumatları oxundu.
+2024-11-25 16:38:21: Menu məlumatları fayldan oxundu.
+2024-11-25 16:38:21: Sklad məlumatları oxundu.
+2024-11-25 16:40:10: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:40:12: Menu məlumatları fayldan oxundu.
+2024-11-25 16:40:12: Sklad məlumatları oxundu.
+2024-11-25 16:40:50: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:40:51: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:40:55: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 16:40:55: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:41:14: Menu məlumatları fayldan oxundu.
+2024-11-25 16:41:14: Sklad məlumatları oxundu.
+2024-11-25 16:43:33: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:43:34: Menu məlumatları fayldan oxundu.
+2024-11-25 16:43:34: Sklad məlumatları oxundu.
+2024-11-25 16:43:48: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:43:48: Menu məlumatları fayldan oxundu.
+2024-11-25 16:43:51: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 16:43:54: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 16:43:54: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:43:54: Menu məlumatları fayldan oxundu.
+2024-11-25 16:44:10: Menu məlumatları fayldan oxundu.
+2024-11-25 16:44:10: Sklad məlumatları oxundu.
+2024-11-25 16:44:45: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:44:45: Menu məlumatları fayldan oxundu.
+2024-11-25 16:44:48: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 16:44:51: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 16:44:56: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 16:44:56: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 16:44:56: Menu məlumatları fayldan oxundu.
+2024-11-25 16:45:36: Menu məlumatları fayldan oxundu.
+2024-11-25 16:45:36: Sklad məlumatları oxundu.
+2024-11-25 16:47:02: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:47:03: Menu məlumatları fayldan oxundu.
+2024-11-25 16:47:03: Sklad məlumatları oxundu.
+2024-11-25 16:47:44: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:48:13: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:48:14: Menu məlumatları fayldan oxundu.
+2024-11-25 16:48:14: Sklad məlumatları oxundu.
+2024-11-25 16:48:25: Sklad məlumatları saxlanıldı.
+2024-11-25 16:48:25: Yeni inqrediyent əlavə edildi: un
+2024-11-25 16:48:36: Sklad məlumatları saxlanıldı.
+2024-11-25 16:48:36: Yeni inqrediyent əlavə edildi: maya
+2024-11-25 16:48:57: Sklad məlumatları saxlanıldı.
+2024-11-25 16:48:57: Yeni inqrediyent əlavə edildi: zeytun
+2024-11-25 16:49:13: Sklad məlumatları saxlanıldı.
+2024-11-25 16:49:13: Yeni inqrediyent əlavə edildi: mozoretta
+2024-11-25 16:49:32: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:49:34: Menu məlumatları fayldan oxundu.
+2024-11-25 16:49:34: Sklad məlumatları oxundu.
+2024-11-25 16:49:51: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:49:52: Menu məlumatları fayldan oxundu.
+2024-11-25 16:49:52: Sklad məlumatları oxundu.
+2024-11-25 16:50:29: Menu məlumatları fayla yazıldı.
+2024-11-25 16:50:29: Yeni yemək əlavə edildi: Pizza Mizza
+2024-11-25 16:50:53: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 16:50:54: Menu məlumatları fayldan oxundu.
+2024-11-25 16:50:54: Sklad məlumatları oxundu.
+2024-11-25 16:51:35: Menu məlumatları fayla yazıldı.
+2024-11-25 16:51:35: Yeni yemək əlavə edildi: Burger
+2024-11-25 17:00:28: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 17:00:29: Menu məlumatları fayldan oxundu.
+2024-11-25 17:00:29: Sklad məlumatları oxundu.
+2024-11-25 17:01:37: Büdcə fayldan oxundu: ₼4000.000000
+2024-11-25 17:01:38: Menu məlumatları fayldan oxundu.
+2024-11-25 17:01:38: Sklad məlumatları oxundu.
+2024-11-25 17:01:43: Menu məlumatları fayldan oxundu.
+2024-11-25 17:01:43: Sklad məlumatları oxundu.
+2024-11-25 17:02:15: Sklad məlumatları saxlanıldı.
+2024-11-25 17:02:15: Büdcə fayla yazıldı: ₼3997.600000
+2024-11-25 17:02:15: Yeni inqrediyent əlavə edildi: yumurta
+2024-11-25 17:03:51: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:03:51: Menu məlumatları fayldan oxundu.
+2024-11-25 17:03:56: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 17:03:59: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:03:59: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:03:59: Menu məlumatları fayldan oxundu.
+2024-11-25 17:04:14: Menu məlumatları fayldan oxundu.
+2024-11-25 17:04:14: Sklad məlumatları oxundu.
+2024-11-25 17:04:43: Menu məlumatları fayla yazıldı.
+2024-11-25 17:04:43: Yeni yemək əlavə edildi: Pizza Mizza
+2024-11-25 17:05:05: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:05:05: Menu məlumatları fayldan oxundu.
+2024-11-25 17:05:10: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 17:05:14: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:05:14: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:05:14: Menu məlumatları fayldan oxundu.
+2024-11-25 17:05:54: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:05:55: Menu məlumatları fayldan oxundu.
+2024-11-25 17:05:55: Sklad məlumatları oxundu.
+2024-11-25 17:09:13: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:10:33: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:10:47: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:11:25: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:11:47: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:11:50: Menu məlumatları fayldan oxundu.
+2024-11-25 17:11:50: Sklad məlumatları oxundu.
+2024-11-25 17:12:19: Menu məlumatları fayla yazıldı.
+2024-11-25 17:12:19: Yeni yemək əlavə edildi: Hamburger
+2024-11-25 17:12:33: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:12:33: Menu məlumatları fayldan oxundu.
+2024-11-25 17:12:36: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:12:36: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:12:36: Menu məlumatları fayldan oxundu.
+2024-11-25 17:13:16: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:13:16: Menu məlumatları fayldan oxundu.
+2024-11-25 17:13:16: Sklad məlumatları oxundu.
+2024-11-25 17:16:29: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:16:32: Menu məlumatları fayldan oxundu.
+2024-11-25 17:16:32: Sklad məlumatları oxundu.
+2024-11-25 17:16:42: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:16:42: Menu məlumatları fayldan oxundu.
+2024-11-25 17:16:45: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 17:16:49: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:16:49: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:16:49: Menu məlumatları fayldan oxundu.
+2024-11-25 17:17:27: Menu məlumatları fayldan oxundu.
+2024-11-25 17:17:27: Sklad məlumatları oxundu.
+2024-11-25 17:18:26: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:18:28: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:18:28: Menu məlumatları fayldan oxundu.
+2024-11-25 17:18:31: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-25 17:18:34: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:18:34: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:18:34: Menu məlumatları fayldan oxundu.
+2024-11-25 17:18:56: Menu məlumatları fayldan oxundu.
+2024-11-25 17:18:56: Sklad məlumatları oxundu.
+2024-11-25 17:22:15: Büdcə fayldan oxundu: ₼3997.600000
+2024-11-25 17:22:19: Menu məlumatları fayldan oxundu.
+2024-11-25 17:22:19: Sklad məlumatları oxundu.
+2024-11-25 17:22:42: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:22:42: Menu məlumatları fayldan oxundu.
+2024-11-25 17:22:47: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:22:47: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:22:47: Menu məlumatları fayldan oxundu.
+2024-11-25 17:23:31: İstifadəçi uğurla daxil oldu: admin
+2024-11-25 17:23:31: İstifadəçi məlumatları fayldan oxundu.
+2024-11-25 17:23:31: Menu məlumatları fayldan oxundu.
+2024-11-25 17:23:34: Menu məlumatları fayldan oxundu.
+2024-11-25 17:23:34: Sklad məlumatları oxundu.
+2024-11-25 17:23:38: Menu məlumatları fayldan oxundu.
+2024-11-25 17:23:38: Sklad məlumatları oxundu.

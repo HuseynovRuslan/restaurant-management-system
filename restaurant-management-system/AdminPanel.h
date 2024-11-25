@@ -60,7 +60,11 @@ namespace AdminPanel {
         Statistic* statistics;
     public:
         AdminController(Restaurant* restaurant, DataSet<Menu>* menuData, DataSet<Stock>* stockData, Statistic* statistics)
-            : restaurant(restaurant), menuData(menuData), stockData(stockData), statistics(statistics) {}
+            : restaurant(restaurant), menuData(menuData), stockData(stockData), statistics(statistics) {
+            *menuData = FileHandler::LoadMenuData(); 
+            *stockData = FileHandler::LoadStockData(); 
+        }
+
 
       //Admin terefinden menyunun idaretmesi
         void AddMenuItem() {
@@ -107,6 +111,8 @@ namespace AdminPanel {
 
             Menu newMenu(name, ingredients, price, description);
             menuData->Add(newMenu);
+            FileHandler::SaveMenuData(*menuData);
+            
             Logger::LogMessage("Yeni yemək əlavə edildi: " + name);
             cout << "Yemək menyuya əlavə edildi!" << endl;
         }
@@ -158,6 +164,7 @@ namespace AdminPanel {
                     stock.AddQuantity(quantity);
                     cout << "Məhsul əlavə edildi!" << endl;
                     Logger::LogMessage("Eyni inqrediyent: " + stock.GetName() + ", Yeni say: " + to_string(stock.GetQuantity()));
+                    FileHandler::SaveStockData(*stockData);
                     return;
                 }
             }
@@ -169,6 +176,9 @@ namespace AdminPanel {
             try {
                 restaurant->DeductFromBudget(totalCost);
                 Stock newStock(name, pricePerUnit, quantity);
+                FileHandler::SaveStockData(*stockData);
+                FileHandler::SaveBudget(restaurant->GetBudget());
+
                 stockData->Add(newStock);
                 statistics->AddExpense(totalCost);
                 Logger::LogMessage("Yeni inqrediyent əlavə edildi: " + name);
@@ -205,6 +215,7 @@ namespace AdminPanel {
                 string removedItemName = stockData->GetItems().at(id - 1).GetName();
                 stockData->GetItems().erase(stockData->GetItems().begin() + (id - 1));
                 Logger::LogMessage("Inqrediyent silindi: " + removedItemName);
+                FileHandler::SaveStockData(*stockData);
                 cout << "Inqrediyent uğurla silindi: " << removedItemName << endl;
             }
             catch (const out_of_range&) {
@@ -248,6 +259,7 @@ namespace AdminPanel {
                 Logger::LogMessage("Inqrediyentin miqdarı dəyişdirildi: " + selectedStock.GetName() +
                     " Köhnə Say: " + to_string(oldQuantity) +
                     ", Yeni Say: " + to_string(newQuantity));
+                FileHandler::SaveStockData(*stockData);
                 cout << "Inqrediyentin miqdarı uğurla dəyişdirildi: " << selectedStock.GetName() << endl;
             }
             catch (const out_of_range&) {
@@ -284,7 +296,7 @@ namespace AdminPanel {
             try {
                 Menu removedMenu = menuData->GetItems().at(id - 1); 
                 menuData->GetItems().erase(menuData->GetItems().begin() + (id - 1)); 
-
+                FileHandler::SaveMenuData(*menuData);
                 Logger::LogMessage("Yemək silindi: " + removedMenu.GetName());
                 cout << "Yemək uğurla silindi: " << removedMenu.GetName() << endl;
             }
@@ -366,7 +378,7 @@ namespace AdminPanel {
             selectedMenu.SetPrice(newPrice > 0 ? newPrice : selectedMenu.GetPrice());
             selectedMenu.SetDescription(newDescription.empty() ? selectedMenu.GetDescription() : newDescription);
             selectedMenu.SetIngredients(newIngredients.empty() ? selectedMenu.GetIngredients() : newIngredients);
-
+            FileHandler::SaveMenuData(*menuData);
             Logger::LogMessage("Yemək yeniləndi: " + selectedMenu.GetName());
             cout << "Yemək uğurla dəyişdirildi!" << endl;
         }
@@ -415,6 +427,7 @@ namespace AdminPanel {
             restaurant->AddToBudget(amount);
             cout << "Büdcəyə ₼" << amount << " əlavə edildi." << endl;
             Logger::LogMessage("Büdcəyə əlavə edildi: ₼" + to_string(amount));
+            FileHandler::SaveBudget(restaurant->GetBudget());
         }
 
         void DeductFromBudget() {
@@ -431,6 +444,7 @@ namespace AdminPanel {
                 restaurant->DeductFromBudget(amount);
                 cout << "Büdcədən ₼" << amount << " çıxarıldı." << endl;
                 Logger::LogMessage("Büdcədən çıxarıldı: ₼" + to_string(amount));
+                FileHandler::SaveBudget(restaurant->GetBudget());
             }
             catch (const runtime_error& e) {
                 cout << "Xəta: " << e.what() << endl;

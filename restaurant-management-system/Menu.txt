@@ -1,0 +1,6 @@
+Pizza|10||
+ Neapolitan Pepperoni Pizza|25|İtalyan mətbəxinin şah əsəri olan Neapolitan pizza|
+Pizza Mizza|5||
+Burger|7|Dadli Burger|
+Pizza Mizza|12|Dadli Pizza yeni|
+Hamburger|4|Dadli Burger|un,2,1;maya,1,1;

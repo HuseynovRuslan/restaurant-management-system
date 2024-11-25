@@ -25,7 +25,13 @@ namespace UserPanel {
     public:
         UserController(DataSet<User>* userData, DataSet<Menu>* menuData, DataSet<Stock>* stockData,
             Statistic* statistics, Restaurant* restaurant)
-            : userData(userData), menuData(menuData), stockData(stockData), statistics(statistics), restaurant(restaurant) {}
+            : userData(userData), menuData(menuData), stockData(stockData), statistics(statistics), restaurant(restaurant) {
+            
+            *userData = FileHandler::LoadUserData();
+            *menuData = FileHandler::LoadMenuData(); 
+
+
+        }
         bool AuthenticateUser() {
             string inputUsername, inputPassword;
             FileManager::ClearScreen();
@@ -139,6 +145,7 @@ namespace UserPanel {
             
             User newUser(username, password);
             userData->Add(newUser);
+            FileHandler::SaveUserData(*userData);
             Logger::LogMessage("Yeni istifadəçi qeydiyyatdan keçdi: " + username);
             cout << "Qeydiyyat uğurla tamamlandı!'Enter' düyməsinə basın." << endl;
             cin.get(); 
@@ -326,25 +333,60 @@ namespace UserPanel {
 
 
 
-         void ConfirmOrder(double totalPrice) {
-        restaurant->AddToBudget(totalPrice);
-        statistics->AddIncome(totalPrice);
-        
-     
-        vector<Menu> orderedItems;
-        for (const auto& basketItem : basket) {
-            for (int i = 0; i < basketItem.second; ++i) { 
-                orderedItems.push_back(basketItem.first);
+        void ConfirmOrder(double totalPrice) {
+            
+            for (const auto& basketItem : basket) {
+                for (const auto& ingredient : basketItem.first.GetIngredients()) {
+                    auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
+                        [&ingredient](const Stock& stock) {
+                            return stock.GetName() == ingredient.GetName();
+                        });
+                    if (it == stockData->GetItems().end() || it->GetQuantity() < ingredient.GetQuantity() * basketItem.second) {
+                        cout << "Sifariş üçün kifayət qədər '" << ingredient.GetName() << "' yoxdur. Sifariş ləğv edildi." << endl;
+                        Logger::LogMessage("Sifariş uğursuz oldu: kifayət qədər inqrediyent yoxdur.");
+                        return; 
+                    }
+                }
             }
-        }
-        Order newOrder(orderData->GetItems().size() + 1, orderedItems); 
-        orderData->Add(newOrder); 
-        
-        Logger::LogMessage("Sifariş təsdiqləndi. Ümumi məbləğ: ₼" + to_string(totalPrice));
-        cout << "Sifariş təsdiqləndi! Ümumi məbləğ: ₼" << totalPrice << endl;
 
-        basket.clear(); 
-    }
+            // Büdcəyə məbləğ əlavə et
+            restaurant->AddToBudget(totalPrice);
+            statistics->AddIncome(totalPrice);
+
+            // Skladdan inqrediyentləri çıxar
+            for (const auto& basketItem : basket) {
+                for (const auto& ingredient : basketItem.first.GetIngredients()) {
+                    auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
+                        [&ingredient](const Stock& stock) {
+                            return stock.GetName() == ingredient.GetName();
+                        });
+                    if (it != stockData->GetItems().end()) {
+                        it->SetQuantity(it->GetQuantity() - ingredient.GetQuantity() * basketItem.second);
+                    }
+                }
+            }
+
+            
+            FileHandler::SaveStockData(*stockData);
+
+           
+            vector<Menu> orderedItems;
+            for (const auto& basketItem : basket) {
+                for (int i = 0; i < basketItem.second; ++i) {
+                    orderedItems.push_back(basketItem.first);
+                }
+            }
+            Order newOrder(orderData->GetItems().size() + 1, orderedItems);
+            orderData->Add(newOrder);
+
+         
+            Logger::LogMessage("Sifariş təsdiqləndi. Ümumi məbləğ: ₼" + to_string(totalPrice));
+            cout << "Sifariş təsdiqləndi! Ümumi məbləğ: ₼" << totalPrice << endl;
+
+           
+            basket.clear();
+        }
+
 
         void ViewAndConfirmBasket() {
             if (basket.empty()) {
