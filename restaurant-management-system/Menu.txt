@@ -1,6 +1,2 @@
-Pizza|10||
- Neapolitan Pepperoni Pizza|25|İtalyan mətbəxinin şah əsəri olan Neapolitan pizza|
-Pizza Mizza|5||
-Burger|7|Dadli Burger|
-Pizza Mizza|12|Dadli Pizza yeni|
-Hamburger|4|Dadli Burger|un,2,1;maya,1,1;
+Mərci Şorbası|10|Azərbaycanın mətbəxinin sevilən yeməyi|merci,1,1;pomidor,2,3;
+Hamburger|5|Karamelləşdirilmiş bulkanın arasında 100% mal ətindən döyülmüş bifşteks|kahi,1,1;Et,1,17;

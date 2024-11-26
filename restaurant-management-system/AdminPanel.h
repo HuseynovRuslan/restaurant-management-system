@@ -1,7 +1,7 @@
 #pragma once
-#include "Entities.h"
+#include "Models.h"
 #include "Statistic.h"
-#include "Helpers.h"
+#include "Utilities.h"
 #include <iostream>
 #include <string>
 #include <vector>
@@ -9,7 +9,7 @@
 #include <algorithm>
 
 using namespace std;
-using namespace Entities;
+using namespace Models;
 using namespace Statistics;
 using namespace FileManager;
 
@@ -425,7 +425,7 @@ namespace AdminPanel {
             }
 
             restaurant->AddToBudget(amount);
-            cout << "Büdcəyə ₼" << amount << " əlavə edildi." << endl;
+          
             Logger::LogMessage("Büdcəyə əlavə edildi: ₼" + to_string(amount));
             FileHandler::SaveBudget(restaurant->GetBudget());
         }

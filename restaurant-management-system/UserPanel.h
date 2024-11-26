@@ -1,13 +1,13 @@
 #pragma once
-#include "Entities.h"
+#include "Models.h"
 #include "Statistic.h"
-#include "Helpers.h"
+#include "Utilities.h"
 #include <iostream>
 #include <vector>
 #include <string>
 
 using namespace std;
-using namespace Entities;
+using namespace Models;
 using namespace Statistics;
 using namespace FileManager;
 
@@ -154,116 +154,91 @@ namespace UserPanel {
 
        
         // Menyu göstərir Userin
-        void DisplayMenuWithBasketOptions() {
+        void 
+            MenuWithBasketOptions() {
+            *menuData = FileHandler::LoadMenuData();
+            *stockData = FileHandler::LoadStockData();
+            basket = FileHandler::LoadBasketData(*menuData);
             FileManager::ClearScreen();
 
-            cout << "========= Mövcud Yeməklər =========" << endl;
+            cout << "========= Menyu =========" << endl;
 
             if (menuData->GetItems().empty()) {
                 cout << "Menyu boşdur!" << endl;
                 cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
-                cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
                 cin.get();
                 return;
             }
 
             int index = 1;
             for (const auto& menu : menuData->GetItems()) {
+                bool allIngredientsAvailable = true;
+
+                
+                for (const auto& ingredient : menu.GetIngredients()) {
+                    auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
+                        [&ingredient](const Stock& stock) {
+                            return stock.GetName() == ingredient.GetName() && stock.GetQuantity() >= ingredient.GetQuantity();
+                        });
+
+                   
+                    if (it == stockData->GetItems().end() || it->GetQuantity() < ingredient.GetQuantity()) {
+                        allIngredientsAvailable = false;
+                        break;
+                    }
+                }
+
+                
                 cout << index++ << ". Ad: " << menu.GetName()
                     << ", Qiymət: ₼" << menu.GetPrice() << endl;
                 cout << "   Təsvir: " << menu.GetDescription() << endl;
                 cout << "   Tərkibi: ";
                 for (const auto& ingredient : menu.GetIngredients()) {
-                    cout << ingredient.GetName() << " (" << ingredient.GetQuantity() << " kq), ";
+                    cout << ingredient.GetName() << " (" << ingredient.GetQuantity() << " qr), ";
                 }
+
+                
+                if (allIngredientsAvailable) {
+                    cout << "\n   Bu yemək mövcuddur." << endl;
+                }
+                else {
+                    cout << "\n   Bu yeməkdən yoxdur." << endl;
+                }
+
                 cout << endl << "-------------------------------------" << endl;
             }
 
+            
             cout << "\n1. Səbətə Yemək Əlavə Et" << endl;
             cout << "2. Səbətə Bax və Təsdiqlə" << endl;
-            cout << "0. Əsas Menyuya Qayıt" << endl;
-            cout << "Seçiminizi edin: ";
+            cout << "0. Çıxış" << endl;
 
             int choice;
+            cout << "Seçiminizi edin: ";
             cin >> choice;
 
             switch (choice) {
-            case 1: {
-                
-                int menuId;
-                cout << "Səbətə əlavə etmək üçün yeməyin ID-sini daxil edin: ";
-                cin >> menuId;
-
-                if (menuId <= 0 || menuId > menuData->GetItems().size()) {
-                    cout << "Yanlış ID daxil edildi!" << endl;
-                    break;
-                }
-
-                Menu selectedMenu = menuData->GetItems().at(menuId - 1);
-                auto it = find_if(basket.begin(), basket.end(), [&selectedMenu](const pair<Menu, int>& item) {
-                    return item.first.GetName() == selectedMenu.GetName();
-                    });
-
-                if (it != basket.end()) {
-                    it->second++; 
-                    cout << "Eyni yemək səbətdə mövcuddur. Miqdar artırıldı." << endl;
-                }
-                else {
-                    basket.push_back({ selectedMenu, 1 }); 
-                    cout << "Yemək səbətə əlavə edildi!" << endl;
-                }
+            case 1:
+                AddFoodToBasket();
+                FileHandler::SaveBasketData(basket);
                 break;
-            }
-
-            case 2: {
-                
-                if (basket.empty()) {
-                    cout << "Səbət boşdur!" << endl;
-                    break;
-                }
-
-                cout << "========= Səbətiniz =========" << endl;
-                double totalPrice = 0.0;
-                for (size_t i = 0; i < basket.size(); ++i) {
-                    cout << i + 1 << ". " << basket[i].first.GetName()
-                        << " (Qiymət: ₼" << basket[i].first.GetPrice()
-                        << ", Miqdar: " << basket[i].second << ")" << endl;
-                    totalPrice += basket[i].first.GetPrice() * basket[i].second;
-                }
-
-                cout << "Ümumi qiymət: ₼" << totalPrice << endl;
-
-                char confirmChoice;
-                cout << "Sifarişi təsdiqləmək istəyirsiniz? (y/n): ";
-                cin >> confirmChoice;
-
-                if (confirmChoice == 'y' || confirmChoice == 'Y') {
-                    
-                    restaurant->AddToBudget(totalPrice); 
-                    statistics->AddIncome(totalPrice);   
-                    basket.clear();                      
-                    cout << "Sifariş təsdiqləndi! Ümumi məbləğ: ₼" << totalPrice << endl;
-                }
-                else {
-                    cout << "Sifariş təsdiqlənmədi." << endl;
-                }
+            case 2:
+                ViewAndConfirmBasket();
                 break;
-            }
-
             case 0:
-                
-                cout << "Əsas Menyuya qayıdılır..." << endl;
+                cout << "Çıxış edilir..." << endl;
                 break;
-
             default:
-                cout << "Yanlış seçim! Yenidən cəhd edin." << endl;
+                cout << "Yanlış seçim etdiniz. Yenidən cəhd edin!" << endl;
                 break;
             }
-
             cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
-            cin.ignore(); 
-            cin.get();
+            cin.ignore(numeric_limits<streamsize>::max(), '\n'); 
+            cin.get(); 
         }
+
+
 
 
         
@@ -304,127 +279,182 @@ namespace UserPanel {
             cin >> menuId;
 
             try {
-                Menu selectedMenu = menuData->GetItems().at(menuId - 1); 
+                
+                Menu selectedMenu = menuData->GetItems().at(menuId - 1);
 
-               
+                
+                for (const auto& ingredient : selectedMenu.GetIngredients()) {
+                    auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
+                        [&ingredient](const Stock& stock) {
+                            return stock.GetName() == ingredient.GetName();
+                        });
+
+                    if (it == stockData->GetItems().end()) {
+                      
+                        
+                        cout << "\nBu yemək hal-hazırda mövcud deyil.\n" << endl;
+                        return;
+                    }
+                    
+                    if (it->GetQuantity() < ingredient.GetQuantity()) {
+                        cout << "\nBu yemək keçici olaraq təmin edilə bilmir.\n" << endl;
+                        return;
+                    }
+                }
+
+              
                 auto it = find_if(basket.begin(), basket.end(), [&selectedMenu](const pair<Menu, int>& item) {
                     return item.first.GetName() == selectedMenu.GetName() && item.first.GetPrice() == selectedMenu.GetPrice();
                     });
 
                 if (it != basket.end()) {
-                    it->second++; 
+                 
+                    it->second++;
                     cout << "Eyni yemək tapıldı. Miqdar artırıldı!" << endl;
                 }
                 else {
-                    basket.push_back({ selectedMenu, 1 }); 
+                  
+                    basket.push_back({ selectedMenu, 1 });
                     cout << "Yemək səbətə əlavə edildi!" << endl;
                 }
 
+              
                 Logger::LogMessage("Səbətə yemək əlavə edildi: " + selectedMenu.GetName());
             }
             catch (const out_of_range&) {
                 cout << "Yanlış ID! Yenidən cəhd edin." << endl;
             }
 
-            cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
-            cin.ignore();
-            cin.get();
+   
         }
+
 
 
 
         void ConfirmOrder(double totalPrice) {
-            
+          
             for (const auto& basketItem : basket) {
                 for (const auto& ingredient : basketItem.first.GetIngredients()) {
                     auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
                         [&ingredient](const Stock& stock) {
                             return stock.GetName() == ingredient.GetName();
                         });
+
                     if (it == stockData->GetItems().end() || it->GetQuantity() < ingredient.GetQuantity() * basketItem.second) {
-                        cout << "Sifariş üçün kifayət qədər '" << ingredient.GetName() << "' yoxdur. Sifariş ləğv edildi." << endl;
+                        cout << "Xəta: '" << ingredient.GetName() << "' üçün kifayət qədər inqrediyent yoxdur. Sifariş ləğv edildi." << endl;
                         Logger::LogMessage("Sifariş uğursuz oldu: kifayət qədər inqrediyent yoxdur.");
-                        return; 
+                        return;
                     }
                 }
             }
 
-            // Büdcəyə məbləğ əlavə et
+       
             restaurant->AddToBudget(totalPrice);
             statistics->AddIncome(totalPrice);
 
-            // Skladdan inqrediyentləri çıxar
+            
             for (const auto& basketItem : basket) {
                 for (const auto& ingredient : basketItem.first.GetIngredients()) {
                     auto it = find_if(stockData->GetItems().begin(), stockData->GetItems().end(),
-                        [&ingredient](const Stock& stock) {
+                        [&ingredient](Stock& stock) {
                             return stock.GetName() == ingredient.GetName();
                         });
+
                     if (it != stockData->GetItems().end()) {
                         it->SetQuantity(it->GetQuantity() - ingredient.GetQuantity() * basketItem.second);
+                        
                     }
                 }
             }
 
-            
+          
             FileHandler::SaveStockData(*stockData);
 
-           
-            vector<Menu> orderedItems;
-            for (const auto& basketItem : basket) {
-                for (int i = 0; i < basketItem.second; ++i) {
-                    orderedItems.push_back(basketItem.first);
-                }
-            }
-            Order newOrder(orderData->GetItems().size() + 1, orderedItems);
-            orderData->Add(newOrder);
-
-         
-            Logger::LogMessage("Sifariş təsdiqləndi. Ümumi məbləğ: ₼" + to_string(totalPrice));
-            cout << "Sifariş təsdiqləndi! Ümumi məbləğ: ₼" << totalPrice << endl;
-
-           
+            
             basket.clear();
-        }
 
+            cout << "Sifariş təsdiqləndi! Büdcəyə ₼" << totalPrice << " əlavə edildi." << endl;
+            Logger::LogMessage("Sifariş uğurla təsdiqləndi. Məbləğ: ₼" + to_string(totalPrice));
+        }
 
         void ViewAndConfirmBasket() {
             if (basket.empty()) {
                 cout << "Səbət boşdur!" << endl;
                 cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
-                cin.ignore();
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
                 cin.get();
                 return;
             }
 
-            cout << "========= Səbətiniz =========" << endl;
             double totalPrice = 0.0;
 
-            for (size_t i = 0; i < basket.size(); ++i) {
-                cout << i + 1 << ". " << basket[i].first.GetName()
-                    << " (Qiymət: ₼" << basket[i].first.GetPrice()
-                    << ", Miqdar: " << basket[i].second << ")" << endl;
-                totalPrice += basket[i].first.GetPrice() * basket[i].second;
+            while (true) {
+               
+                cout << "========= Səbətiniz =========" << endl;
+
+                totalPrice = 0.0;
+                for (size_t i = 0; i < basket.size(); ++i) {
+                    cout << i + 1 << ". " << basket[i].first.GetName()
+                        << " (Qiymət: ₼" << basket[i].first.GetPrice()
+                        << ", Miqdar: " << basket[i].second << ")" << endl;
+                    totalPrice += basket[i].first.GetPrice() * basket[i].second;
+                }
+
+                cout << "Ümumi qiymət: ₼" << totalPrice << endl;
+
+                
+                cout << "\nSeçim edin:\n";
+                cout << "1. Yeməyi səbətdən çıxarmaq\n";
+                cout << "2. Sifarişi təsdiqləmək\n";
+                cout << "0. Çıxış\n";
+
+                int choice;
+                cout << "Seçiminizi edin: ";
+                cin >> choice;
+
+                if (choice == 1) {
+                    
+                    int removeIndex;
+                    cout << "Səbətdən çıxarmaq istədiyiniz yeməyin nömrəsini daxil edin: ";
+                    cin >> removeIndex;
+
+                    if (removeIndex > 0 && removeIndex <= basket.size()) {
+                        cout << basket[removeIndex - 1].first.GetName() << " səbətdən çıxarıldı." << endl;
+                        basket.erase(basket.begin() + removeIndex - 1);
+                    }
+                    else {
+                        cout << "Yanlış nömrə! Yemək çıxarıla bilmədi." << endl;
+                    }
+                }
+                else if (choice == 2) {
+                    
+                    char confirm;
+                    cout << "Sifarişi təsdiqləmək istəyirsiniz? (y/n): ";
+                    cin >> confirm;
+
+                    if (confirm == 'y' || confirm == 'Y') {
+                        ConfirmOrder(totalPrice);
+                        return;  
+                    }
+                    else {
+                        cout << "Sifariş təsdiqlənmədi." << endl;
+                    }
+                }
+                else if (choice == 0) {
+                    
+                    cout << "Çıxış edilir..." << endl;
+                    return;
+                }
+                else {
+                    cout << "Yanlış seçim! Yenidən cəhd edin." << endl;
+                }
+
+                cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
+                cin.ignore(numeric_limits<streamsize>::max(), '\n');
+                cin.get();
             }
-
-            cout << "Ümumi qiymət: ₼" << totalPrice << endl;
-
-            char choice;
-            cout << "Sifarişi təsdiqləmək istəyirsiniz? (y/n): ";
-            cin >> choice;
-
-            if (choice == 'y' || choice == 'Y') {
-                ConfirmOrder(totalPrice);
-                basket.clear();
-            }
-            else {
-                cout << "Sifariş təsdiqlənmədi." << endl;
-            }
-
-            cout << "Davam etmək üçün 'Enter' düyməsinə basın...";
-            cin.ignore();
-            cin.get();
         }
+
 
 
     };

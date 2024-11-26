@@ -1,3 +1,6 @@
-un 1 200
-maya 1 300
-zeytun 2 20
+Pendir 7 5
+Et 17 198
+kahi 1 18
+merci 1 50
+pomidor 3 50
+yerkoku 2 50

@@ -1,17 +1,17 @@
 #include <iostream>
-#include "Entities.h"
+#include "Models.h"
 #include "AdminPanel.h"
 #include "UserPanel.h"
-#include "Display.h"
-#include "Helpers.h"
+#include "UIManager.h"
+#include "Utilities.h"
 #include "Statistic.h"
 #include "Exceptions.h"
 
 using namespace std;
-using namespace Entities;
+using namespace Models;
 using namespace AdminPanel;
 using namespace UserPanel;
-using namespace Display;
+using namespace UIManager;
 using namespace FileManager;
 using namespace Statistics;
 
@@ -22,13 +22,12 @@ void main() {
     DataSet<Stock> stockData;
     DataSet<User> userData;
     Statistic statistics;
-    DataSet<Order>* orderData = new DataSet<Order>();
-    delete orderData;
+  
 
     
-    stockData.Add(Stock("Tomato", 0.5, 100));
-    stockData.Add(Stock("Cheese", 1.0, 50));
-    stockData.Add(Stock("Bread", 0.2, 200));
+    stockData.Add(Stock("Pomidor", 0.5, 100));
+    stockData.Add(Stock("Pendir", 1.0, 50));
+    stockData.Add(Stock("Corek", 0.2, 200));
 
     vector<Stock> pizzaIngredients = { stockData.GetItems()[0], stockData.GetItems()[1], stockData.GetItems()[2] };
     menuData.Add(Menu("Pizza", pizzaIngredients, 10.0));
@@ -38,6 +37,12 @@ void main() {
     double initialBudget = FileHandler::LoadBudget();
     restaurant.SetBudget(initialBudget);
     try {
+
+
+
+
+
+
         
         displayHandler.ShowMainMenu();
     }
