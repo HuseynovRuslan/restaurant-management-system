@@ -1,54 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\",
+  "WorkspaceRootPath": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Models.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Statistic.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:UserPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:AdminPanel.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Utilities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Logs.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Stock.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Exceptions.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{07E7896D-FB73-4130-A477-95ED30F62728}|Resotan_Proyekt_Maseter.vcxproj|solutionrelative:Display.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Budget.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\User.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\User.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:User.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Helpers.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,50 +78,88 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UIManager.h",
+              "RelativeDocumentMoniker": "UIManager.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UIManager.h",
+              "RelativeToolTip": "UIManager.h",
+              "ViewState": "AQIAAPAAAAAAAAAAAAAAAP8AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T05:52:59.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "Stock.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Stock.txt",
-              "RelativeDocumentMoniker": "Stock.txt",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Stock.txt",
-              "RelativeToolTip": "Stock.txt",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-25T11:48:24.885Z",
+              "Title": "Utilities.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Utilities.h",
+              "RelativeDocumentMoniker": "Utilities.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Utilities.h",
+              "RelativeToolTip": "Utilities.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T05:50:12.221Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Models.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Models.h",
+              "RelativeDocumentMoniker": "Models.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Models.h",
+              "RelativeToolTip": "Models.h",
+              "ViewState": "AQIAAGkAAAAAAAAAAAAAAHoAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-11-27T05:49:00.042Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Stock.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Stock.txt",
+              "RelativeDocumentMoniker": "Stock.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Stock.txt",
+              "RelativeToolTip": "Stock.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-11-25T11:48:24.885Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "UserPanel.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\UserPanel.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UserPanel.h",
               "RelativeDocumentMoniker": "UserPanel.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\UserPanel.h*",
-              "RelativeToolTip": "UserPanel.h*",
-              "ViewState": "AQIAAKgBAAAAAAAAAAAIwLkBAAA/AAAA",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\UserPanel.h",
+              "RelativeToolTip": "UserPanel.h",
+              "ViewState": "AQIAAEgBAAAAAAAAAAAhwHcBAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T07:05:47.143Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 6,
               "Title": "Display.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Display.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Display.h",
               "RelativeDocumentMoniker": "Display.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Display.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Display.h",
               "RelativeToolTip": "Display.h",
-              "ViewState": "AQIAADYBAAAAAAAAAAAcwEwBAAABAAAA",
+              "ViewState": "AQIAAC0BAAAAAAAAAAAcwEwBAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T07:05:58.896Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "Statistic.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Statistic.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Statistic.h",
               "RelativeDocumentMoniker": "Statistic.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Statistic.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Statistic.h",
               "RelativeToolTip": "Statistic.h",
               "ViewState": "AQIAAD4AAAAAAAAAAAAcwFIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -118,50 +168,49 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "AdminPanel.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\AdminPanel.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\AdminPanel.h",
               "RelativeDocumentMoniker": "AdminPanel.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\AdminPanel.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\AdminPanel.h",
               "RelativeToolTip": "AdminPanel.h",
-              "ViewState": "AQIAAMoAAAAAAAAAAIAzwNYAAABCAAAA",
+              "ViewState": "AQIAAKkAAAAAAAAAAAAhwLgAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T07:05:28.75Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 14,
               "Title": "Helpers.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Helpers.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Helpers.h",
               "RelativeDocumentMoniker": "Helpers.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Helpers.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Helpers.h",
               "RelativeToolTip": "Helpers.h",
               "ViewState": "AQIAAN0AAAAAAAAAAAAcwPIAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-11-22T07:06:08.149Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-22T07:06:08.149Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Entities.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Entities.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Entities.h",
               "RelativeDocumentMoniker": "Entities.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Entities.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Entities.h",
               "RelativeToolTip": "Entities.h",
-              "ViewState": "AQIAAHsAAAAAAAAAAAAcwL4AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAH0AAAALAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2024-11-22T07:05:15.597Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "Exceptions.h",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Exceptions.h",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Exceptions.h",
               "RelativeDocumentMoniker": "Exceptions.h",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Exceptions.h",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Exceptions.h",
               "RelativeToolTip": "Exceptions.h",
               "ViewState": "AQIAADQAAAAAAAAAAAAcwEoAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
@@ -170,37 +219,36 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Source.cpp",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Source.cpp",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Source.cpp",
               "RelativeDocumentMoniker": "Source.cpp",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Source.cpp",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Source.cpp",
               "RelativeToolTip": "Source.cpp",
-              "ViewState": "AQIAACQAAAAAAAAAAAAAAC4AAAAgAAAA",
+              "ViewState": "AQIAACIAAAAAAAAAAIBQwC4AAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2024-11-22T07:04:56.044Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Logs.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Logs.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Logs.txt",
               "RelativeDocumentMoniker": "Logs.txt",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Logs.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Logs.txt",
               "RelativeToolTip": "Logs.txt",
               "ViewState": "AQIAAAsCAAAAAAAAAAAiwBYCAAAeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
-              "WhenOpened": "2024-11-23T08:24:46.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-23T08:24:46.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 12,
               "Title": "Budget.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Budget.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Budget.txt",
               "RelativeDocumentMoniker": "Budget.txt",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\Budget.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\Budget.txt",
               "RelativeToolTip": "Budget.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
@@ -208,11 +256,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "User.txt",
-              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\User.txt",
+              "DocumentMoniker": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\User.txt",
               "RelativeDocumentMoniker": "User.txt",
-              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system-main\\restaurant-management-system-main\\restaurant-management-system\\User.txt",
+              "ToolTip": "C:\\Users\\HP\\Desktop\\restaurant-management-system\\restaurant-management-system\\User.txt",
               "RelativeToolTip": "User.txt",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",

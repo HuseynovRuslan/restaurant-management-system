@@ -1,1 +1,2 @@
 Hamburger|5|2|kahi,1,1;Et,1,17;
+Mərci Şorbası|10|1|merci,1,1;pomidor,2,3;

@@ -373,7 +373,7 @@ namespace UserPanel {
             
             basket.clear();
 
-            cout << "Sifariş təsdiqləndi! Büdcəyə ₼" << totalPrice << " əlavə edildi." << endl;
+            cout << "Sifariş təsdiqləndi! Hesabınızdan ₼" << totalPrice << " çıxıldı." << endl;
             Logger::LogMessage("Sifariş uğurla təsdiqləndi. Məbləğ: ₼" + to_string(totalPrice));
         }
 

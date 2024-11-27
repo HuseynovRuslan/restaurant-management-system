@@ -247,7 +247,7 @@ namespace UIManager {
                 FileManager::ClearScreen();
                 cout << "\n========= User Panel =========" << endl;
                 cout << "1. Yeməklərə və Səbətə Bax" << endl;
-                cout << "2. Keçmiş Zakazlara Bax" << endl;
+                /*cout << "2. Keçmiş Zakazlara Bax" << endl;*/
                 cout << "0. Əsas Menyuya Qayıt" << endl;
                 cout << "Seçiminizi edin: ";
                 cin >> choice;

@@ -1,6 +1,6 @@
 Pendir 7 5
-Et 17 198
-kahi 1 18
-merci 1 50
-pomidor 3 50
+Et 17 196
+kahi 1 16
+merci 1 49
+pomidor 3 48
 yerkoku 2 50
