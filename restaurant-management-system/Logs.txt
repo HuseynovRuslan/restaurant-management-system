@@ -177,3 +177,40 @@
 2024-11-26 19:06:17: Büdcə fayldan oxundu: ₼4902.600000
 2024-11-26 19:06:17: Menu məlumatları fayldan oxundu.
 2024-11-26 19:06:17: Sklad məlumatları oxundu.
+2024-11-27 09:51:31: Büdcə fayldan oxundu: ₼4902.600000
+2024-11-27 09:51:35: Büdcə fayldan oxundu: ₼4902.600000
+2024-11-27 09:51:37: Menu məlumatları fayldan oxundu.
+2024-11-27 09:51:37: Sklad məlumatları oxundu.
+2024-11-27 09:51:40: Menu məlumatları fayldan oxundu.
+2024-11-27 09:51:40: Sklad məlumatları oxundu.
+2024-11-27 09:51:46: İstifadəçi məlumatları fayldan oxundu.
+2024-11-27 09:51:46: Menu məlumatları fayldan oxundu.
+2024-11-27 09:51:50: İstifadəçi uğurla daxil oldu: admin
+2024-11-27 09:51:50: İstifadəçi məlumatları fayldan oxundu.
+2024-11-27 09:51:50: Menu məlumatları fayldan oxundu.
+2024-11-27 09:51:50: Menu məlumatları fayldan oxundu.
+2024-11-27 09:51:50: Sklad məlumatları oxundu.
+2024-11-27 09:51:50: Səbət məlumatları Basket.txt faylından oxundu.
+2024-11-27 09:53:15: Büdcə fayldan oxundu: ₼4902.600000
+2024-11-27 09:53:18: İstifadəçi məlumatları fayldan oxundu.
+2024-11-27 09:53:18: Menu məlumatları fayldan oxundu.
+2024-11-27 09:53:21: Yanlış şifrə ilə giriş cəhdi: admin
+2024-11-27 09:53:25: Mövcud olmayan istifadəçi adı ilə giriş cəhdi: admina
+2024-11-27 09:53:28: İstifadəçi uğurla daxil oldu: admin
+2024-11-27 09:53:28: İstifadəçi məlumatları fayldan oxundu.
+2024-11-27 09:53:28: Menu məlumatları fayldan oxundu.
+2024-11-27 09:53:29: Menu məlumatları fayldan oxundu.
+2024-11-27 09:53:29: Sklad məlumatları oxundu.
+2024-11-27 09:53:29: Səbət məlumatları Basket.txt faylından oxundu.
+2024-11-27 09:53:33: Səbətə yemək əlavə edildi: Mərci Şorbası
+2024-11-27 09:53:33: Səbət məlumatları Basket.txt faylına yazıldı.
+2024-11-27 09:53:35: Menu məlumatları fayldan oxundu.
+2024-11-27 09:53:35: Sklad məlumatları oxundu.
+2024-11-27 09:53:35: Səbət məlumatları Basket.txt faylından oxundu.
+2024-11-27 09:53:41: Sklad məlumatları fayla yazıldı.
+2024-11-27 09:53:41: Sifariş uğurla təsdiqləndi. Məbləğ: ₼20.000000
+2024-11-27 09:55:14: Büdcə fayldan oxundu: ₼4902.600000
+2024-11-27 09:55:21: Büdcə fayldan oxundu: ₼4902.600000
+2024-11-27 09:55:21: Menu məlumatları fayldan oxundu.
+2024-11-27 09:55:21: Sklad məlumatları oxundu.
+2024-11-27 09:59:10: Büdcə fayldan oxundu: ₼4902.600000
